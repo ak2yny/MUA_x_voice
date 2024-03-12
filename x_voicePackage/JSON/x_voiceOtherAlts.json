@@ -1,0 +1,105 @@
+{
+    "platform": "PC",
+    "sounds": [
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_CANCER",
+            "sample_index": 0,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_MILO",
+            "sample_index": 1,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_DANTE",
+            "sample_index": 2,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_MEGAX",
+            "sample_index": 3,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_MORRIGAN",
+            "sample_index": 4,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_NEMESIS",
+            "sample_index": 5,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_TIDUS",
+            "sample_index": 6,
+            "flags": 31},
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_BLACKRX",
+            "sample_index": 7,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_KRVULKAN",
+            "sample_index": 8,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_TE800",
+            "sample_index": 9,
+            "flags": 31
+        }
+    ],
+    "samples": [
+        {
+            "file": "x_voiceOtherOnly\\duplicates\\MUA Deathmask Saint Seiya roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\duplicates\\MUA Scorpion Saint Seiya roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\duplicates\\MUA Dante Devil May Cry roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\duplicates\\MUA Mega Man X roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\duplicates\\MUA Morrigan Darkstalkers Capcom roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\duplicates\\MUA Nemesis Resident Evil roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\duplicates\\MUA Tidus Final Fantasy X roster menu callout variant 2.wav",
+            "format": 106,
+            "sample_rate": 22050},
+        {
+            "file": "x_voiceOtherOnly\\duplicates\\an_KRBlackRX.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\duplicates\\an_kamenrider_vulkan.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\duplicates\\MUA Terminator roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        }
+    ]
+}

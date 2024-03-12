@@ -1,0 +1,2077 @@
+{
+    "platform": "PC",
+    "sounds": [
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_STAN_LEE",
+            "sample_index": 0,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_STAN_LEE/***RANDOM***/0",
+            "sample_index": 1,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_STAN_LEE/***RANDOM***/1",
+            "sample_index": 2,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_ASPEN",
+            "sample_index": 3,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_CYBLADE",
+            "sample_index": 4,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_DARKNESS",
+            "sample_index": 5,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_INVINCIBLE",
+            "sample_index": 6,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_LARACROFT",
+            "sample_index": 7,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_MAGDALENA",
+            "sample_index": 8,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SPAWN",
+            "sample_index": 9,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_WITCHBLADE",
+            "sample_index": 10,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_LARACROFT",
+            "sample_index": 11,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_SPAWN",
+            "sample_index": 12,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_CONAN",
+            "sample_index": 13,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_ELISACAMERON",
+            "sample_index": 14,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SONJA",
+            "sample_index": 15,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_MASK",
+            "sample_index": 16,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_CPLANET",
+            "sample_index": 17,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_JDREDD",
+            "sample_index": 18,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_VAMPIRELLA",
+            "sample_index": 19,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_BENTEN",
+            "sample_index": 20,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_GWENTEN",
+            "sample_index": 21,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_HEMAN",
+            "sample_index": 22,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_LIONO",
+            "sample_index": 23,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SHERA",
+            "sample_index": 24,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_MISATO",
+            "sample_index": 25,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_NARUT",
+            "sample_index": 26,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SASKE",
+            "sample_index": 27,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_NARUT/***RANDOM***/0",
+            "sample_index": 28,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_NARUT/***RANDOM***/1",
+            "sample_index": 29,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_SASKE",
+            "sample_index": 30,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_ARIES",
+            "sample_index": 31,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_CANCER",
+            "sample_index": 32,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_CAPRICORN",
+            "sample_index": 33,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_GEMINI",
+            "sample_index": 34,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_HYOGA",
+            "sample_index": 35,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_IKKI",
+            "sample_index": 36,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_LIBRA",
+            "sample_index": 37,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_MILO",
+            "sample_index": 38,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_ODINSS",
+            "sample_index": 39,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_PISCS",
+            "sample_index": 40,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_WYVERN",
+            "sample_index": 41,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SAG",
+            "sample_index": 42,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SEIYA",
+            "sample_index": 43,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SHIRYU",
+            "sample_index": 44,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_TAURUS",
+            "sample_index": 45,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_VIRGO",
+            "sample_index": 46,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_DANTE",
+            "sample_index": 47,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_JILL",
+            "sample_index": 48,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_MEGAX",
+            "sample_index": 49,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_MORRIGAN",
+            "sample_index": 50,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_NEMESIS",
+            "sample_index": 51,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_DANTE/***RANDOM***/0",
+            "sample_index": 52,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_DANTE/***RANDOM***/1",
+            "sample_index": 53,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_DANTE/***RANDOM***/2",
+            "sample_index": 54,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_DANTE/***RANDOM***/3",
+            "sample_index": 55,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_JILL/***RANDOM***/0",
+            "sample_index": 56,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_JILL/***RANDOM***/1",
+            "sample_index": 57,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_JILL/***RANDOM***/2",
+            "sample_index": 58,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_MEGAX/***RANDOM***/0",
+            "sample_index": 59,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_MEGAX/***RANDOM***/1",
+            "sample_index": 60,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_MEGAX/***RANDOM***/2",
+            "sample_index": 61,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_MORRIGAN/***RANDOM***/0",
+            "sample_index": 62,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_MORRIGAN/***RANDOM***/1",
+            "sample_index": 63,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_MORRIGAN/***RANDOM***/2",
+            "sample_index": 64,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_NEMESIS",
+            "sample_index": 65,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_AKUMA",
+            "sample_index": 66,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_CAMMY",
+            "sample_index": 67,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_CHUNLI",
+            "sample_index": 68,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_BISON",
+            "sample_index": 69,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_AKUMA/***RANDOM***/0",
+            "sample_index": 70,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_AKUMA/***RANDOM***/1",
+            "sample_index": 71,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_AKUMA/***RANDOM***/2",
+            "sample_index": 72,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_AKUMA/***RANDOM***/3",
+            "sample_index": 73,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_AKUMA/***RANDOM***/4",
+            "sample_index": 74,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_CAMMY/***RANDOM***/0",
+            "sample_index": 75,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_CAMMY/***RANDOM***/1",
+            "sample_index": 76,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_CAMMY/***RANDOM***/2",
+            "sample_index": 77,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_CAMMY/***RANDOM***/3",
+            "sample_index": 78,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_CHUNLI/***RANDOM***/0",
+            "sample_index": 79,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_CHUNLI/***RANDOM***/1",
+            "sample_index": 80,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_BISON/***RANDOM***/0",
+            "sample_index": 81,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_BISON/***RANDOM***/1",
+            "sample_index": 82,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_NINA",
+            "sample_index": 83,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_ACCULUS",
+            "sample_index": 84,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_ERWIN_ARCLIGHT",
+            "sample_index": 85,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_FUU_CHAN",
+            "sample_index": 86,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_HARU_ESTIA",
+            "sample_index": 87,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_IRIS_YUMA",
+            "sample_index": 88,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_JIN_SEIPATSU",
+            "sample_index": 89,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_LUNA_NOX",
+            "sample_index": 90,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_LUPAN",
+            "sample_index": 91,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_LILY_BLOOMERCHEN",
+            "sample_index": 92,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_STELLA_UNIBELL",
+            "sample_index": 93,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_TENEBRIS",
+            "sample_index": 94,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_FUU_CHAN",
+            "sample_index": 95,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_HARU_ESTIA/***RANDOM***/0",
+            "sample_index": 96,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_HARU_ESTIA/***RANDOM***/1",
+            "sample_index": 97,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_HARU_ESTIA/***RANDOM***/2",
+            "sample_index": 98,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_IRIS_YUMA",
+            "sample_index": 99,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_JIN_SEIPATSU",
+            "sample_index": 100,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_LUPAN",
+            "sample_index": 101,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_LILY_BLOOMERCHEN",
+            "sample_index": 102,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_STELLA_UNIBELL",
+            "sample_index": 103,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_TENEBRIS",
+            "sample_index": 104,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_KAIN",
+            "sample_index": 203,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_RAZIEL",
+            "sample_index": 204,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_CLOUDSTRIFE",
+            "sample_index": 105,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_GARRETT",
+            "sample_index": 106,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_KRATOS",
+            "sample_index": 107,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SAMFIS",
+            "sample_index": 108,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SNAKE",
+            "sample_index": 109,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_AYAKA",
+            "sample_index": 110,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_HU_TAO",
+            "sample_index": 111,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_LINK",
+            "sample_index": 112,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_ARAN",
+            "sample_index": 113,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SORA",
+            "sample_index": 205,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_TAKI",
+            "sample_index": 114,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_HU_TAO",
+            "sample_index": 115,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_LINK/***RANDOM***/0",
+            "sample_index": 116,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_LINK/***RANDOM***/1",
+            "sample_index": 117,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_LINK/***RANDOM***/2",
+            "sample_index": 118,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_ARAN/***RANDOM***/0",
+            "sample_index": 119,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_ARAN/***RANDOM***/1",
+            "sample_index": 120,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_ARAN/***RANDOM***/2",
+            "sample_index": 121,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_AND18",
+            "sample_index": 122,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_BEERUS",
+            "sample_index": 123,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_FREEZA",
+            "sample_index": 124,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_GOKU",
+            "sample_index": 125,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_HIT",
+            "sample_index": 126,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_PICCOLO",
+            "sample_index": 127,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_VEGETA",
+            "sample_index": 128,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_FREEZA/***RANDOM***/0",
+            "sample_index": 129,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_FREEZA/***RANDOM***/1",
+            "sample_index": 130,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_GOKU",
+            "sample_index": 131,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_HIT/***RANDOM***/0",
+            "sample_index": 132,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_HIT/***RANDOM***/1",
+            "sample_index": 133,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_PICCOLO/***RANDOM***/0",
+            "sample_index": 134,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_PICCOLO/***RANDOM***/1",
+            "sample_index": 135,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_VEGETA/***RANDOM***/0",
+            "sample_index": 136,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_VEGETA/***RANDOM***/1",
+            "sample_index": 137,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_BLACKRX",
+            "sample_index": 138,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_KRDCD",
+            "sample_index": 139,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_KRVULKAN",
+            "sample_index": 140,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SHADOWM",
+            "sample_index": 141,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_ZEONE",
+            "sample_index": 142,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_BLACKRX/***RANDOM***/0",
+            "sample_index": 143,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_BLACKRX/***RANDOM***/1",
+            "sample_index": 144,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_BLACKRX/***RANDOM***/2",
+            "sample_index": 145,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_BLACKRX/***RANDOM***/3",
+            "sample_index": 146,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_KRVULKAN",
+            "sample_index": 147,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_SHADOWM/***RANDOM***/0",
+            "sample_index": 148,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_SHADOWM/***RANDOM***/1",
+            "sample_index": 149,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_GREENRANGER",
+            "sample_index": 150,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_LDRAKKON",
+            "sample_index": 151,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_PINKR",
+            "sample_index": 152,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_PINKRANGER",
+            "sample_index": 152,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_REDRANGER",
+            "sample_index": 153,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_WHITERANGER",
+            "sample_index": 154,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_GREENRANGER/***RANDOM***/0",
+            "sample_index": 155,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_GREENRANGER/***RANDOM***/1",
+            "sample_index": 156,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_LDRAKKON/***RANDOM***/0",
+            "sample_index": 157,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_LDRAKKON/***RANDOM***/1",
+            "sample_index": 158,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_LDRAKKON/***RANDOM***/2",
+            "sample_index": 159,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_LDRAKKON/***RANDOM***/3",
+            "sample_index": 160,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_PINKR",
+            "sample_index": 161,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_PINKRANGER",
+            "sample_index": 161,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_REDRANGER/***RANDOM***/0",
+            "sample_index": 162,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_REDRANGER/***RANDOM***/1",
+            "sample_index": 163,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_REDRANGER/***RANDOM***/2",
+            "sample_index": 164,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_REDRANGER/***RANDOM***/3",
+            "sample_index": 165,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_WHITERANGER",
+            "sample_index": 166,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_CJONES",
+            "sample_index": 167,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_DON",
+            "sample_index": 168,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_LEO",
+            "sample_index": 169,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_MIKEY",
+            "sample_index": 170,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_RAPH",
+            "sample_index": 171,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SHREDDER",
+            "sample_index": 172,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_DON",
+            "sample_index": 173,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_LEO",
+            "sample_index": 174,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_MIKEY",
+            "sample_index": 175,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_RAPH",
+            "sample_index": 176,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_SHREDDER",
+            "sample_index": 177,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_VADER",
+            "sample_index": 178,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_OBI",
+            "sample_index": 179,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_ED209",
+            "sample_index": 180,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_RCOP",
+            "sample_index": 181,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_ALIEN",
+            "sample_index": 182,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_DOCWHO",
+            "sample_index": 183,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_FREDDYKRUEGER",
+            "sample_index": 184,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_007",
+            "sample_index": 185,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_JASONV",
+            "sample_index": 186,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_METEOR",
+            "sample_index": 187,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_NEO",
+            "sample_index": 188,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_PRIME",
+            "sample_index": 189,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_PREDATOR",
+            "sample_index": 190,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_TE800",
+            "sample_index": 191,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_UNDERTAKER",
+            "sample_index": 192,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_PRIME/***RANDOM***/0",
+            "sample_index": 193,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_PRIME/***RANDOM***/1",
+            "sample_index": 194,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_TE800/***RANDOM***/0",
+            "sample_index": 195,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_TE800/***RANDOM***/1",
+            "sample_index": 196,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_TE800/***RANDOM***/2",
+            "sample_index": 197,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_TE800/***RANDOM***/3",
+            "sample_index": 198,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_TE800/***RANDOM***/4",
+            "sample_index": 199,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_GREDIN",
+            "sample_index": 200,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_CLAUS",
+            "sample_index": 201,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_CLAUS",
+            "sample_index": 202,
+            "flags": 31
+        }
+    ],
+    "samples": [
+        {
+            "file": "x_voiceOtherOnly\\MUA Stan Lee mod roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_stan_lee.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_stan_lee2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Aspen Matthews roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Cyblade Top Cow roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Jackie Estacado or the Darkness roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Invincible Mark Grayson Image Comics roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Lara Croft roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA The Magdalena Top Cow roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Spawn roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Sara Pezzini or Witchblade roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\BREAK_LARACROFT.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_SPAWN1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Conan the Barbarian roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Elisa Cameron Ghost Dark Horse Comics roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Red Sonja roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA The Mask Dark Horse Comics roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Captain Planet roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Judge Dredd roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Vampirella roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Ben 10 Cartoon Network roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Gwen Tennyson Ben 10 roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA He-Man roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Lion-O Thundercats roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA She-Ra roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Misato Katsuragi Neon Genesis Evangelion roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Naruto Uzumaki Naruto roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Sasuke Uchiha Naruto roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_naruto1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_naruto2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_sasuke1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Aries Saint Seiya roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Cancer Saint Seiya roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Capri Saint Seiya roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Gemini Saint Seiya roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Hyoga Saint Seiya roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Ikki Saint Seiya roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Libra Saint Seiya roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Milo Saint Seiya roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Odin Saint Seiya roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Piscs Saint Seiya roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Radamanthys Saint Seiya roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Sag Saint Seiya roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Seiya Saint Seiya roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Shiryu Saint Seiya roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Taurus Saint Seiya roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Virgo Saint Seiya roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\an_dante.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Jill Valentine Resident Evil roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\an_megaman.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\an_morrigan.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\an_nemesis.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_dante1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_dante2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_dante3.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_dante4.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_jill.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_jill2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_jill3.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_megax.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_megax2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_megax3.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_morrigan1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_morrigan2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_morrigan3.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_nemesis.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Akuma roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Cammy Street Fighter roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Chun-Li roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA M Bison Street Fighter  roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_akuma (1).wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_akuma (2).wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_akuma (3).wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_akuma (4).wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_akuma (5).wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_cammy1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_cammy2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_cammy3.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_cammy4.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_chun-li1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_chun-li2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_bison1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_bison2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Nina Williams Tekken roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Acculus SoulWorker roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Erwin Arclight SoulWorker roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Fuu Chan SoulWorker roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Haru Estia SoulWorker roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Iris Yuma SoulWorker roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Jin Seipatsu SoulWorker roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Luna Nox SoulWorker roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Lupan SoulWorker roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Lily Bloomerchen SoulWorker roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Stella Unibell SoulWorker roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Tenebris SoulWorker roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_FuuChan.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_haru_CSS1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_haru_CSS2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_haru_CSS3.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_IrisYuma.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_JinSeipatsu.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_Lerfenne.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_LilyBloomerchen.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_StellaUnibell.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_Tenebris.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Cloud Strife Final Fantasy VII roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Garrett Thief series roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Kratos God of War roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Sam Fisher Tom Clancy's Splinter Cell roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Solid Snake Metal Gear roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Kamisato Ayaka Genshin Impact roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Hu Tao Genshin Impact roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Link Legend of Zelda roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Samus Aran Metroid roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Taki Soulcalibur roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_HuTao.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_link.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_link2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_link3.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_samus1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_samus2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_samus3.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Android 18 Dragon Ball roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Beerus Dragon Ball roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Frieza Dragon Ball roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Goku roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Hit Dragon Ball roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Piccolo Dragon Ball roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Vegeta Dragon Ball roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_frieza3.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_frieza4.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_goku.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_hit.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_hit2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_piccolo.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_piccolo2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_vegeta1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_vegeta4.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Kamen Rider Black roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Kamen Rider Decade roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Kamen Rider Vulcan roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Shadow Moon Kamen Rider roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Zero-One Kamen Rider roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_KRBlackRX1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_KRBlackRX2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_KRBlackRX3.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_KRBlackRX4.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_kamenrider_vulkan.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_shadowmoon1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_shadowmoon2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Green Ranger Power Rangers roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Pink Ranger Power Rangers roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Red Ranger Power Rangers roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA White Ranger Power Rangers roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Lord Drakkon Power Rangers roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_greenRanger (1).wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_greenRanger (2).wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_Drakkon (3).wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_Drakkon (5).wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_Drakkon (6).wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_Drakkon (7).wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_pink (1).wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_red_ranger.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_RedRanger (1).wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_RedRanger (2).wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_RedRanger (3).wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_white_ranger.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Casey Jones TMNT roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Donatello TMNT roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Leonardo TMNT roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Michelangelo TMNT roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Raphael TMNT roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA The Shredder TMNT roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_donatello.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_leonardo.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_mikeyTurtle.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_raphaello.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_shredderTMNT.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Darth Vader roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Obi-Wan Kenobi roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA ED-209 RoboCop roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA RoboCop roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Alien roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA The Doctor Doctor Who roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Freddy Krueger roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA James Bond 007 roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Jason Voorhees Friday the 13th roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Meteor Man roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Neo The Matrix roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Optimus Prime Transformers roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Predator roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\an_terminator.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA The Undertaker WWE roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_optimus1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_optimus2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_terminator1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_terminator2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_terminator3.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_terminator4.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_terminator5.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Gredin roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Santa Claus roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\break_santa_claus.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Kain Legacy of Kain roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Raziel Legacy of Kain roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceOtherOnly\\MUA Sora Kingdom Hearts roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        }
+    ]
+}

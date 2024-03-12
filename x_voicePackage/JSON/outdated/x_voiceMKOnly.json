@@ -1,0 +1,617 @@
+{
+    "platform": "PC",
+    "sounds": [
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_BARAKA",
+            "sample_index": 0,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_CASSIE",
+            "sample_index": 1,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_CHAMELEON",
+            "sample_index": 2,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_CYRAX",
+            "sample_index": 3,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_ERMAC",
+            "sample_index": 4,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_ERRON",
+            "sample_index": 57,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_FUJIN",
+            "sample_index": 5,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_GORO",
+            "sample_index": 6,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_JACQUI",
+            "sample_index": 7,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_JADE",
+            "sample_index": 8,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_JAX",
+            "sample_index": 9,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_CAGE",
+            "sample_index": 10,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_KABAL",
+            "sample_index": 11,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_KANO",
+            "sample_index": 12,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_KENSHI",
+            "sample_index": 13,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_KHAMELEON",
+            "sample_index": 14,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_KITANA",
+            "sample_index": 15,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_KRONIKA",
+            "sample_index": 16,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_KLAO",
+            "sample_index": 17,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_LKANG",
+            "sample_index": 18,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_MILEENA",
+            "sample_index": 19,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_NIGHTWOLF",
+            "sample_index": 20,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_NOOB",
+            "sample_index": 21,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_NOOBSAIBOT",
+            "sample_index": 21,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_QUAN",
+            "sample_index": 22,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_RAIDEN",
+            "sample_index": 23,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_RAIN",
+            "sample_index": 24,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_REPTILE",
+            "sample_index": 25,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SCRPN",
+            "sample_index": 26,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SEKTOR",
+            "sample_index": 27,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_TSUNG",
+            "sample_index": 28,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SHANGTSUNG",
+            "sample_index": 28,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_KAHN",
+            "sample_index": 29,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SHEEVA",
+            "sample_index": 30,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SHINNOK",
+            "sample_index": 31,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SINDEL",
+            "sample_index": 32,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SKARLET",
+            "sample_index": 58,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SMOKE",
+            "sample_index": 33,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SONYA",
+            "sample_index": 34,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_STRYKER",
+            "sample_index": 35,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SZERO",
+            "sample_index": 36,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_TANYA",
+            "sample_index": 59,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_TREMOR",
+            "sample_index": 37,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_BARAKA",
+            "sample_index": 38,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_ERMAC",
+            "sample_index": 39,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_GORO",
+            "sample_index": 40,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_KANO",
+            "sample_index": 41,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_KITANA/***RANDOM***/0",
+            "sample_index": 42,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_KITANA/***RANDOM***/1",
+            "sample_index": 43,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_KLAO",
+            "sample_index": 44,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_LKANG",
+            "sample_index": 45,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_QUAN",
+            "sample_index": 46,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_RAIDEN",
+            "sample_index": 47,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_REPTILE",
+            "sample_index": 48,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_SCRPN/***RANDOM***/0",
+            "sample_index": 49,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_SCRPN/***RANDOM***/1",
+            "sample_index": 50,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_SCRPN/***RANDOM***/2",
+            "sample_index": 51,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_SCRPN/***RANDOM***/3",
+            "sample_index": 52,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_KAHN",
+            "sample_index": 53,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_SINDEL",
+            "sample_index": 54,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_SONYA",
+            "sample_index": 55,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_SZERO",
+            "sample_index": 56,
+            "flags": 31
+        }
+    ],
+    "samples": [
+        {
+            "file": "x_voiceMKOnly\\an_BARAKA.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_cassie.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_Chameleon (placeholder).wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_CYRAX.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_ermac.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_Fujin (placeholder).wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_GORO MK.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_jacqui.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_jade.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_jax.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_JONNY CAGE.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_kabal.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_kanoMK.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_KENSHI.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_Khameleon (placeholder).wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_kitana.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_kronika.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_kung lao.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_liu_kang.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_mileena.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_NIGHTWOLF.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_noob.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_quan shi.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_RAIDEN.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_rain.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_reptile.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_ScorpionMK.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_sektor.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_shang_tsung.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_shao_kahn.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_SHEEVA.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_shinnok.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_SINDEL.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_SMOKE.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_sonya_blade.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_strykerMK.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_SUBZERO.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_tremor.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\break_baraka.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\break_ermac.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\break_goro.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\break_kano.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\break_kitanna.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\break_kitanna2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\break_kungLao.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\break_liu_kang2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\break_quan_chi.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\break_raiden.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\break_reptile.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\break_scorpion.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\break_scorpion2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\break_scorpionMK3.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\break_scorpionMK4.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\break_shaohKahn.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\break_sindel.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\break_sonyablade.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\break_subzero1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_Erron_Black (placeholder).wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_Skarlet (placeholder).wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\an_Tanya (placeholder).wav",
+            "format": 106,
+            "sample_rate": 22050
+        }
+    ]
+}

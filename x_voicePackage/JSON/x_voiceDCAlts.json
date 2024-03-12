@@ -1,0 +1,177 @@
+{
+    "platform": "PC",
+    "sounds": [
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_BATMAN",
+            "sample_index": 0,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_FLASH",
+            "sample_index": 1,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_GREENLANTERN",
+            "sample_index": 2,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_HUNTRESS",
+            "sample_index": 3,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_HUNTRESS",
+            "sample_index": 4,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_NWING",
+            "sample_index": 5,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_ROBIN",
+            "sample_index": 6,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SPRMN",
+            "sample_index": 7,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_WWOM",
+            "sample_index": 8,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_WWOM3",
+            "sample_index": 8,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_WWOM",
+            "sample_index": 9,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_WWOM3",
+            "sample_index": 9,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_BATMAN/***RANDOM***/0",
+            "sample_index": 10,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_GREENLANTERN/***RANDOM***/0",
+            "sample_index": 11,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_NWING/***RANDOM***/1",
+            "sample_index": 12,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_SPRMN/***RANDOM***/0",
+            "sample_index": 13,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/BREAK_WWOM/***RANDOM***/0",
+            "sample_index": 14,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_JOKER",
+            "sample_index": 15,
+            "flags": 255
+        }
+    ],
+    "samples": [
+        {
+            "file": "x_voiceDCOnly\\legacy\\an_batman.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceDCOnly\\legacy\\an_flash.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceDCOnly\\legacy\\an_greenlantern.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceDCOnly\\legacy\\an_huntress.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceDCOnly\\duplicates\\MUA Huntress roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceDCOnly\\legacy\\an_nwing.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceDCOnly\\legacy\\an_robin.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceDCOnly\\legacy\\an_sprmn.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceDCOnly\\legacy\\an_wonderwoman.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceDCOnly\\legacy\\an_wwoman_Aventureimax.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceDCOnly\\legacy\\break_batman.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceDCOnly\\legacy\\break_greenlantern.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceDCOnly\\duplicates\\break_nightwing1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceDCOnly\\legacy\\break_sprmn.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceDCOnly\\legacy\\break_wonderwoman.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceDCOnly\\legacy\\an_joker.wav",
+            "format": 106,
+            "sample_rate": 22050
+        }
+    ]
+}

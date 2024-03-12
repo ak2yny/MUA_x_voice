@@ -1,0 +1,507 @@
+{
+    "platform": "PC",
+    "sounds": [
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_BARAKA",
+            "sample_index": 0,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_CASSIE",
+            "sample_index": 1,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_CHAMELEON",
+            "sample_index": 2,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_CYRAX",
+            "sample_index": 3,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_ERMAC",
+            "sample_index": 4,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_FUJIN",
+            "sample_index": 5,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_GORO",
+            "sample_index": 6,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_JACQUI",
+            "sample_index": 7,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_JADE",
+            "sample_index": 8,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_JAX",
+            "sample_index": 9,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_CAGE",
+            "sample_index": 10,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_KABAL",
+            "sample_index": 11,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_KANO",
+            "sample_index": 12,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_KENSHI",
+            "sample_index": 13,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_KHAMELEON",
+            "sample_index": 14,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_KITANA",
+            "sample_index": 15,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_KRONIKA",
+            "sample_index": 16,
+            "flags": 255
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_KLAO",
+            "sample_index": 17,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_LKANG",
+            "sample_index": 18,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_MILEENA",
+            "sample_index": 19,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_NIGHTWOLF",
+            "sample_index": 20,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_NOOB",
+            "sample_index": 21,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_NOOBSAIBOT",
+            "sample_index": 21,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_QUAN",
+            "sample_index": 22,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_RAIDEN",
+            "sample_index": 23,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_RAIN",
+            "sample_index": 24,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_REPTILE",
+            "sample_index": 25,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SCRPN",
+            "sample_index": 26,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SEKTOR",
+            "sample_index": 27,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_TSUNG",
+            "sample_index": 28,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SHANGTSUNG",
+            "sample_index": 28,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_KAHN",
+            "sample_index": 29,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SHEEVA",
+            "sample_index": 30,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SHINNOK",
+            "sample_index": 31,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SINDEL",
+            "sample_index": 32,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SKARLET",
+            "sample_index": 33,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SMOKE",
+            "sample_index": 34,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SONYA",
+            "sample_index": 35,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_STRYKER",
+            "sample_index": 36,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_SZERO",
+            "sample_index": 37,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_TANYA",
+            "sample_index": 38,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/MENUS/CHARACTER/AN_TREMOR",
+            "sample_index": 39,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/TEAM_BONUS_BLACK_DRAGON_MK",
+            "sample_index": 40,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/TEAM_BONUS_BROTHERHOOD_OF_SHADOW_MK",
+            "sample_index": 41,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/TEAM_BONUS_DEADLY_ALLIANCE_MK",
+            "sample_index": 42,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/TEAM_BONUS_ELDER_GODS_MK",
+            "sample_index": 43,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/TEAM_BONUS_LIN_KUEI_MK",
+            "sample_index": 44,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/TEAM_BONUS_OUTWORLD_FORCES_MK",
+            "sample_index": 45,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/TEAM_BONUS_SHAOLIN_MONKS_MK",
+            "sample_index": 46,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/TEAM_BONUS_SPECIAL_FORCES_MK",
+            "sample_index": 47,
+            "flags": 31
+        },
+        {
+            "hash": "COMMON/TEAM_BONUS_WHITE_LOTUS_MK",
+            "sample_index": 48,
+            "flags": 31
+        }
+    ],
+    "samples": [
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Baraka Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Cassie Cage Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Chameleon Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Cyrax Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Ermac Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Fujin Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Goro Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Jacqui Briggs Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Jade Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Jax Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Johnny Cage Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Kabal Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Kano Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Kenshi Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Khameleon Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Kitana Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Kronika Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Kung Lao Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Liu Kang Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Mileena Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Nightwolf Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Noob Saibot Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Quan Chi Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Raiden Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Rain Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Reptile Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Scorpion Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Sektor Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Shang Tsung Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Shao Khan roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Sheeva Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Shinnok Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Sindel Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Skarlet Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Smoke Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Sonya Blade Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Stryker Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Sub-Zero Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Tanya Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceMKOnly\\duplicates\\MUA Tremor Mortal Kombat roster menu callout.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceTeams\\duplicates\\Black Dragon (MK) CM.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceTeams\\duplicates\\Brotherhood of Shadow (MK) CM.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceTeams\\duplicates\\Deadly Alliance (MK) CM.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceTeams\\duplicates\\Elder Gods (MK) CM.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceTeams\\duplicates\\Lin Kuei (MK) CM.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceTeams\\duplicates\\Outworld Forces (MK) CM.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceTeams\\duplicates\\Shaolin Monks (MK) CM.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceTeams\\duplicates\\Special Forces (MK) CM.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "x_voiceTeams\\duplicates\\White Lotus (MK) CM.wav",
+            "format": 106,
+            "sample_rate": 22050
+        }
+    ]
+}
